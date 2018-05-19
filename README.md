@@ -1,2 +1,1 @@
-# download_files
-# This repository is download and upload files in the cloud.
+# This repository is used to download and upload files in the cloud, for my convenience.
